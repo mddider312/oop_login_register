@@ -1,9 +1,8 @@
 <?php
-class Session{
-
+class User{
+    
     public function __construct(){
-
+        
     }
 }
-
 ?>
